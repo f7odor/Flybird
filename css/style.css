@@ -24,6 +24,10 @@ body {
     left: 15%;
 }
 
+.well {
+  border-radius: solid 1px;
+}
+
 .pole {
     position: absolute;
     height: 130px;
